@@ -14,6 +14,10 @@
           <source>1.8</source>
           <target>1.8</target>
         </configuration>
+
+<!--- hi this is comment line in this file-->
+
+
       </plugin>
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
